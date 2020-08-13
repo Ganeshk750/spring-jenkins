@@ -15,7 +15,7 @@ public class SpringJenkinsApplication {
 	@PostConstruct
 	public void init() {
 		logger.info("<====Application starts =====>");
-		System.out.println("This is int method");
+		
 	}
 
 	public static void main(String[] args) {
